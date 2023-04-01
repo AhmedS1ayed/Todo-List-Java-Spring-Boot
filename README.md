@@ -1,13 +1,15 @@
 # Todo-List-Java-Spring-Boot
 This is a simple todo list using Spring Boot JSP,JPA,MVC,H2,Starter,Validation,Security,Bootstrap.
 
-#User1 
+# User1 
 username : Travis <br>
 password : ty <br>
 
-#User2
+# User2
 username : Musashi <br>
 password : ty <br>
+
+# ScreenShots
 
 ![1](https://user-images.githubusercontent.com/93644109/229285628-f867e6e7-f638-4690-a3dc-3adece8d1946.jpg)
 ![2](https://user-images.githubusercontent.com/93644109/229285631-af313c4f-8799-4d0b-a99f-468443142496.jpg)
